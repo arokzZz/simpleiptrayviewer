@@ -2,7 +2,7 @@
 
 
 
-**simpleiptrayviewer** is a simple program for **Windows** that lives in the system tray (bottom right icons) and allows you to quickly check your **private IP** and your **public IP**.
+**simpleiptrayviewer** is a simple open source program for **Windows** that lives in the system tray (bottom right icons) and allows you to quickly check your **private IP** and your **public IP**.
 
 - Works on background
 - Barely uses resources
