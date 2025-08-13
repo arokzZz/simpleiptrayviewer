@@ -15,7 +15,7 @@
 <img width="178" height="160" alt="2" src="https://github.com/user-attachments/assets/6b09d5b2-1e09-45aa-95f5-16dcf563c8bf" />
 
 
----
+
 
 ## Features
 - Icon on system tray
@@ -24,7 +24,7 @@
 - Open source Python code
 - Can be compiled to .exe without python installed
 
----
+
 
 ## Installation
 
