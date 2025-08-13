@@ -23,3 +23,16 @@
 - Simple window for copying IPs
 - Open source Python code
 - Can be compiled to .exe without python installed
+
+---
+
+## Installation
+
+You can either download the binarie or compile the program.
+
+## To compile
+
+On cmd:
+
+```pip install pyinstaller```
+```pyinstaller --onefile --noconsole ip_tray.py```
