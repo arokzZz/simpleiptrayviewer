@@ -35,4 +35,4 @@ You can either download the binarie or compile the program.
 On cmd:
 
 ```pip install pyinstaller```
-```pyinstaller --onefile --noconsole ip_tray.py```
+```pyinstaller --onefile --noconsole main.py```
